@@ -186,3 +186,10 @@ ggplot(df_pca3, aes(x = PC1, y = PC2, color = PC3a, shape = PC3a, size= PC3a)) +
   geom_point(size = 3)
 
 
+
+# Data summary ------------------------------------------------------------
+rename %>%
+  group_by(name) %>%
+  summarise_all(.funs = list(mean)) %>% 
+  na.omit(.) %>% 
+  arrange(FRAP) #Change the response name to observe each particular response
