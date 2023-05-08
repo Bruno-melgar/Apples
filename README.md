@@ -33,7 +33,8 @@ ORCID: 0000-0002-6615-5289 <br/>
 
 ---
 ### Metadata:
-- **Related publication:**
+- **Related publication:** <br/>	
+https://www.mdpi.com/2304-8158/12/9/1926
 
 - **Description:** <br/>	
 This dataset contains the data collected from the experimental test performed in apple samples applying different antioxidant coatings. In this study, it was performed a multivariate analysis focused in all the responses collected. Evaluating with different approaches like clustering and PCA.
