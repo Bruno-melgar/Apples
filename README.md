@@ -1,7 +1,8 @@
 ### Document:
 - **Title of the dataset:** Apples
 - **Data underlying publication:** <br/>
-Natural olive pomace extracts as active ingredient in ‘Royal Gala’ apple slices 
+Effect of Olive Pomace Extract Application and Packaging Material on the Preservation of Fresh-Cut Royal Gala Apples
+- **Publication Link:** <br/> https://www.mdpi.com/2304-8158/12/9/1926
 ---
 
 ### Creators:
